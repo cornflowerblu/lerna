@@ -1,7 +1,8 @@
 {
   "name": "@my-scope/beta",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "publishConfig": {
     "registry": "http://localhost:4873"
-  }
+  },
+  "gitHead": "c81a8d575a6e7d770984c42e22015a4efd7d5e43"
 }
