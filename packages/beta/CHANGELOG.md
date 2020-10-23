@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/rurich-shiftpixy/lerna/compare/@my-scope/beta@1.1.0...@my-scope/beta@2.0.0) (2020-10-23)
+
+**Note:** Version bump only for package @my-scope/beta
+
+
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/rurich-shiftpixy/lerna/compare/@my-scope/beta@1.0.0...@my-scope/beta@1.1.0) (2020-10-23)
 
