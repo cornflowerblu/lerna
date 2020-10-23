@@ -1,6 +1,6 @@
 {
   "name": "@my-scope/alpha",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "publishConfig": {
     "registry": "http://localhost:4873"
   },
